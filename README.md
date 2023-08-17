@@ -10,7 +10,7 @@
 
 
 <br/>
-  <h2 style="color:#FFFFFF; background-color:#000000; padding: 10px;">📈GitHub Streak</h2>
+  <center><h2 style="color:#FFFFFF; background-color:#000000; padding: 10px;">📈GitHub Streak</h2></center>
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitianpradeep&background=FFFFFF&ring=000000&fire=DD2727&currStreakNum=000000&sideLabels=000000&currStreakLabel=000000&dates=000000&stroke=000000&hide_border=true" alt="rajgopalagrawal" /></a>
   <br/>
  
