@@ -5,8 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*H4cHks1eEdrW7Zlz.gif"> </p>
 
-## 🚀 Visitors Count:
-![Visitor Count](https://profile-counter.glitch.me/rajgopalagrawal/count.svg) -->
+
 
 
 <div align="center" style="background-color:#000000; padding: 40px; width: 100%;">
@@ -17,3 +16,5 @@
   <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitianpradeep&background=FFFFFF&ring=000000&fire=DD2727&currStreakNum=000000&sideLabels=000000&currStreakLabel=000000&dates=000000&stroke=000000&hide_border=true" alt="rajgopalagrawal" /></a>
   <br/>
  
+## 🚀 Visitors Count:
+![Visitor Count](https://profile-counter.glitch.me/rajgopalagrawal/count.svg) -->
